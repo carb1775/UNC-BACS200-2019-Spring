@@ -1,8 +1,6 @@
 <?php
 
-    // View rendering code
-    require_once 'views.php'; 
-    
+   
     
     // Page content
     $content =  '
